@@ -8,6 +8,7 @@ package com.paint;
  *
  * @author Kusumitha P
  */
+//updated shape 
 public abstract class Shape {
     public abstract void draw();
      public abstract void move(int x, int y);
